@@ -1,0 +1,1802 @@
+[
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Nathan Lee",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Lisa Nguyvne",
+        "debter": "Sofia Al-Karim",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Lila Gray",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "major"
+    },
+    {
+        "owed": "Lisa Nguyvne",
+        "debter": "Sofia Al-Karim",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Ruby Wilder",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Nathan Lee",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Lila Gray",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Lila Gray",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Ruby Wilder",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "major"
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Lila Gray",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Nathan Lee",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Nathan Lee",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Ruby Wilder",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Nathan Lee",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Lisa Nguyvne",
+        "debter": "Sofia Al-Karim",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Nathan Lee",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Nathan Lee",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Lisa Nguyvne",
+        "debter": "Sofia Al-Karim",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Lila Gray",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "major"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Lila Gray",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Ruby Wilder",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Lila Gray",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Ruby Wilder",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Lisa Nguyvne",
+        "debter": "Sofia Al-Karim",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Lisa Nguyvne",
+        "debter": "Sofia Al-Karim",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "major"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Lisa Nguyvne",
+        "debter": "Sofia Al-Karim",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Nathan Lee",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ruby Wilder",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ruby Wilder",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Lisa Nguyvne",
+        "debter": "Sofia Al-Karim",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Ruby Wilder",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Lisa Nguyvne",
+        "debter": "Sofia Al-Karim",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ruby Wilder",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Lila Gray",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Lisa Nguyvne",
+        "debter": "Sofia Al-Karim",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Nathan Lee",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Lisa Nguyvne",
+        "debter": "Sofia Al-Karim",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Lisa Nguyvne",
+        "debter": "Sofia Al-Karim",
+        "num": 1,
+        "type": "major"
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ruby Wilder",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Evan Stone",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "major"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Nathan Lee",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Lila Gray",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Nathan Lee",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ruby Wilder",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ruby Wilder",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Nathan Lee",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ruby Wilder",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Nathan Lee",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Lisa Nguyvne",
+        "debter": "Sofia Al-Karim",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Lisa Nguyvne",
+        "debter": "Sofia Al-Karim",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Lila Gray",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Evan Stone",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Lila Gray",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Lisa Nguyvne",
+        "debter": "Sofia Al-Karim",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "major"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "major"
+    },
+    {
+        "owed": "Ruby Wilder",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ruby Wilder",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Lisa Nguyvne",
+        "debter": "Sofia Al-Karim",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Ruby Wilder",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Ruby Wilder",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Nathan Lee",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Lila Gray",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Ruby Wilder",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Lila Gray",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Lisa Nguyvne",
+        "debter": "Sofia Al-Karim",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Lisa Nguyvne",
+        "debter": "Sofia Al-Karim",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Lisa Nguyvne",
+        "debter": "Sofia Al-Karim",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Lila Gray",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Nathan Lee",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Lila Gray",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ruby Wilder",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ruby Wilder",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ruby Wilder",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Ruby Wilder",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Evan Stone",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Lisa Nguyvne",
+        "debter": "Sofia Al-Karim",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Ruby Wilder",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Nathan Lee",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Lila Gray",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Ruby Wilder",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Lisa Nguyvne",
+        "debter": "Sofia Al-Karim",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ruby Wilder",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Lisa Nguyvne",
+        "debter": "Sofia Al-Karim",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Lisa Nguyvne",
+        "debter": "Sofia Al-Karim",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Lila Gray",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Lisa Nguyvne",
+        "debter": "Sofia Al-Karim",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "major"
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Ruby Wilder",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Ruby Wilder",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Lisa Nguyvne",
+        "debter": "Sofia Al-Karim",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Lisa Nguyvne",
+        "debter": "Sofia Al-Karim",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Lila Gray",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Lila Gray",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Lisa Nguyvne",
+        "debter": "Sofia Al-Karim",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "standard"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Lila Gray",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "minor"
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Lisa Nguyvne",
+        "num": 1,
+        "type": "trivial"
+    }
+]

@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "boon-maker"
+version = "0.1.0"
+description = ""
+authors = ["James White <Grimkey@gmail.com>"]
+readme = "README.md"
+packages = [{include = "boon_maker"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pydantic = "^1.10.8"
+pytest = "^7.3.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

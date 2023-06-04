@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Lisa Nguyvne",
+    "status": 4,
+    "bp": 4,
+    "clan": "Daeva",
+    "faction": "Invictus",
+    "alliance": "Middle",
+    "title": "Senschal"
+  },
+  {
+    "name": "Sofia Al-Karim",
+    "status": 3,
+    "bp": 4,
+    "clan": "Mekhet",
+    "faction": "Invictus",
+    "alliance": "Middle",
+    "title": "Primogen"
+  },
+  {
+    "name": "Alexandar Morgan",
+    "status": 4,
+    "bp": 4,
+    "clan": "Ventrue",
+    "faction": "Invictus",
+    "alliance": "Middle",
+    "title": "Primogen"
+  },
+  {
+    "name": "Julian Delacruix",
+    "status": 3,
+    "bp": 3,
+    "clan": "Daeva",
+    "faction": "Invictus",
+    "alliance": "Middle",
+    "title": "Primogen"
+  },
+  {
+    "name": "Ethan Walker",
+    "status": 4,
+    "bp": 3,
+    "clan": "Gangrel",
+    "faction": "Invictus",
+    "alliance": "Middle",
+    "title": "Sheriff"
+  },
+  {
+    "name": "Ruby Wilder",
+    "status": 3,
+    "bp": 2,
+    "clan": "Gangrel",
+    "faction": "Invictus",
+    "alliance": "Middle",
+    "title": "Primogen"
+  },
+  {
+    "name": "Trevor Belmont",
+    "pc": true,
+    "status": 1,
+    "bp": 1,
+    "clan": "Gangrel",
+    "faction": "Invictus",
+    "alliance": "Middle",
+    "title": ""
+  },
+  {
+    "name": "Evan Stone",
+    "status": 0,
+    "bp": 1,
+    "clan": "Nosferatu",
+    "faction": "Invictus",
+    "alliance": "Middle",
+    "title": ""
+  },
+  {
+    "name": "Lila Gray",
+    "status": 3,
+    "bp": 1,
+    "clan": "Ventrue",
+    "faction": "Invictus",
+    "alliance": "Middle",
+    "title": "Harpy"
+  },
+  {
+    "name": "Father Gabriel Reyes",
+    "status": 3,
+    "bp": 3,
+    "clan": "Daeva",
+    "faction": "Lanca Sanctum",
+    "alliance": "Middle",
+    "title": "Bishop of Austin"
+  },
+  {
+    "name": "Father Leo Cruz",
+    "status": 2,
+    "bp": 3,
+    "clan": "Nosferatu",
+    "faction": "Lanca Sanctum",
+    "alliance": "Middle",
+    "title": "Dark Priest of St. Darkcus Necropolis"
+  },
+  {
+    "name": "Nathan Lee",
+    "status": 1,
+    "bp": 2,
+    "clan": "Mekhet",
+    "faction": "Lanca Sanctum",
+    "alliance": "Middle",
+    "title": "Prior of St. Drakcus Necropolis"
+  },
+  {
+    "name": "Sister Flavia",
+    "pc": true,
+    "status": 1,
+    "bp": 1,
+    "clan": "Ventrue",
+    "faction": "Lanca Sanctum",
+    "alliance": "Middle",
+    "title": ""
+  }
+]

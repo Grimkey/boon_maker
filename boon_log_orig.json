@@ -1,0 +1,110 @@
+[
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Ruby Wilder",
+        "type": "minor",
+        "num": 2
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Lisa Nguyvne",
+        "type": "minor",
+        "num": 3
+    },
+    {
+        "owed": "Father Leo Cruz",
+        "debter": "Julian Delacruix",
+        "type": "standard",
+        "num": 2
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Evan Stone",
+        "type": "standard",
+        "num": 5
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Ruby Wilder",
+        "type": "minor",
+        "num": 3
+    },
+    {
+        "owed": "Julian Delacruix",
+        "debter": "Lisa Nguyvne",
+        "type": "trivial",
+        "num": 3
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Ruby Wilder",
+        "type": "trivial",
+        "num": 3
+    },
+    {
+        "owed": "Father Gabriel Reyes",
+        "debter": "Julian Delacruix",
+        "type": "trivial",
+        "num": 1
+    },
+    {
+        "owed": "Lisa Nguyvne",
+        "debter": "Sofia Al-Karim",
+        "type": "minor",
+        "num": 6
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Lisa Nguyvne",
+        "type": "trivial",
+        "num": 1
+    },
+    {
+        "owed": "Ethan Walker",
+        "debter": "Evan Stone",
+        "type": "trivial",
+        "num": 1
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Lisa Nguyvne",
+        "type": "trivial",
+        "num": 7
+    },
+    {
+        "owed": "Alexandar Morgan",
+        "debter": "Julian Delacruix",
+        "type": "standard",
+        "num": 2
+    },
+    {
+        "owed": "Nathan Lee",
+        "debter": "Julian Delacruix",
+        "type": "minor",
+        "num": 2
+    },
+    {
+        "owed": "Nathan Lee",
+        "debter": "Lisa Nguyvne",
+        "type": "trivial",
+        "num": 3
+    },
+    {
+        "owed": "Lila Gray",
+        "debter": "Lisa Nguyvne",
+        "type": "minor",
+        "num": 3
+    },
+    {
+        "owed": "Sofia Al-Karim",
+        "debter": "Lisa Nguyvne",
+        "type": "minor",
+        "num": 2
+    },
+    {
+        "owed": "Ruby Wilder",
+        "debter": "Evan Stone",
+        "type": "trivial",
+        "num": 1
+    }
+]
